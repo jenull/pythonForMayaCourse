@@ -1,8 +1,11 @@
 ## 🧠 Python for Maya Scripts & My Notes
 - **SECTION 1** [[py4My_Sec1](py4My_Sec1.py)] :
-  - Maya's script editor
+  - Maya's script editor, using python in maya
   - Creating a deafult cube
   - Parenting one object over another
+  - Selecting objects in the outliner + scene
+  - Locking axes and movements of selected objects
+  - & additional general python review (lists, tuples, sets, & dictionaries)
     
 - **SECTION 2** [[py4My_Sec2](py4My_Sec2.py)] :
   - Using "ls"
